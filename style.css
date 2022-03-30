@@ -1,0 +1,166 @@
+.banner img{
+	width: 50%;
+	height: 100%;
+	border-radius: 4px;
+}
+
+.banner img{
+	width: 100%;
+	height: 100%;
+	border-radius: 5px;
+}
+
+div {
+  background-color: #A8CAC8;
+  text-align: center;
+  margin: 16px auto;
+  padding: 25px;
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 2px 1px 14px 1px #000000b3;
+}
+
+p{
+	color:#070b4a;
+}
+
+h1{
+	color: #AD0B5E;
+	font-size: 30px;
+	font-family: 'Overpass', sans-serif;
+}
+
+h2{
+	color:#9B587A;
+	font-family: 'Overpass', sans-serif;
+}
+
+li{
+	color:#070b4a;
+}
+
+footer img{
+	height: 200px;
+	object-fit: cover;
+	width: 20%;
+}
+
+.languages {
+	display:  flex;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 3px;
+  text-align: center;
+  width: 75%;
+
+}
+.languagesskills {
+	display:  flex;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 3px;
+  text-align: center;
+  width: 175%;
+  text-decoration: underline;
+  font-size: italic
+}
+
+.languagesskills img {
+	height: 68px;
+	object-fit: cover;
+	width: 70%;
+}
+
+.digital {
+	display:  flex;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 3px;
+  text-align: center;
+  width: 75%;
+  text-decoration: underline;
+}
+
+.digital img{
+	height: 65px;
+	object-fit: cover;
+	width: 70%;
+}
+
+
+.socialnetworks {
+	display:  flex;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 3px;
+  text-align: center;
+  width: 75%;
+  text-decoration: underline;
+}
+.socialnetworks img {
+	 height:  65px;
+  object-fit: cover;
+  width:70%;
+}
+
+.socialnetworks2{
+	display:  flex;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 3px;
+  text-align: center;
+  width: 75%;
+  text-decoration: underline;
+}
+
+.socialnetworks2 img {
+	 height:  65px;
+  object-fit: cover;
+  width:70%;
+}
+
+
+
+
+body{
+	margin: 4 ;
+	font-family: 'Overpass', sans-serif;
+	background-color: #DDE0E3;
+	text-align: center;
+	display:inline-block;
+	padding: 20px;
+  font: 1em Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+img{
+	height:  200px;
+  object-fit: cover;
+  width:30%;
+}
+* {box-sizing: border-box;}
+
+p {
+  margin: 0 0 1em 0;
+}
+
+h1, h2, h3 {
+	font-family: 'Chivo', sans-serif
+}
+
+a{
+	text-decoration: none;
+}
+
+.container {
+	width: 80%;
+	margin:24px auto;
+	}
+
+h1(
+	p
+{
+    width: 250px;
+    height: 110px;
+    text-align: justify;
+    border: 1px solid black;
+}
+text-indent: -5000px ;
+}
+
+
+
